@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+	<title type="text"/>
+	<updated>2014-061-15T02:23:29Z</updated>
+	<author>
+		<name/>
+	</author>
+	<category term="applications.Connection" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+	<content type="application/xml">
+		<m:properties>
+		<d:DeviceType>Windows</d:DeviceType>
+		<d:DeviceModel m:null="true" />
+		</m:properties>
+	</content>
+</entry>
